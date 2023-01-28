@@ -1,0 +1,818 @@
+{
+    "Aerospace_Engineering": {
+      "1st_Semester": [
+        "Applied Mechanics",
+        "Basic Electrical Engineering",
+        "Engineering Drawing I ",
+          "Engineering Math I ",
+          "Engineering  Physics",
+          "Workshop Technology"
+      ],
+      "2nd_Semester": [
+        "Basics Electronics",
+        "C programmming",
+        "Engineering Chemistry",
+        "Engineering Drawing II",
+        "Engineering Math II",
+        "Fundamental of Thermodynamics & Heat Transfer"
+      ],
+      "3rd_Semester": [
+        "Applied Thermodynamics & Heat Transfer",
+        "Computer Aided Design & Manufacturing",
+        "Engineering Math III ",
+        "Engineering Mechanics",
+        "Fluid Mechanics",
+        "Fundamental of Aerospace Engineering"
+      ],
+      "4th_Semester": [
+        "Aerodynamics",
+        "Aerospace Materials",
+        "Control System",
+        "Probability & Statistics",
+        "Strength of Materials",
+        "Theory of Mechanism & Machine I"
+      ],
+      "5th_Semester": [
+        "Aircraft Manufacturing Process",
+        "Aircraft Population",
+    "Continum Mechanics",
+    "Fault Monitoring & Diagnosis",
+    "Numerical Methods",
+    " Theory of Vibration"
+      ],
+      "6th_Semester": [
+        "Aircraft Environment Control System",
+        "Aircraft Maintenance Engineering",
+        "Avionics",
+        "Flight Dynamics",
+        "Finite Element Method ",
+        "Unmanned Air Vehicle Synthesis",
+        "Elective I"
+      ],
+      "7th_Semester": [
+        "Air Traffic Management ",
+        "Aircraft Preliminary Design",
+        "Aircraft Structure",
+        "Computational Fluid Dynamics",
+        "Embedded  Systems in Avionics"
+      ],
+      "8th_Semester": [
+        "Aviation Proffesinal Practices ",
+        "Internship ",
+        "Elective II"
+      ]
+    },
+    "Agricultural_Engineering": {
+      "1st_Semester": [
+        "Applied Mechanics",
+        "Basic Electrical Engineering",
+        "C Programming",
+        "Drawing I",
+        "Engineering  Physics",
+        "Math I"
+      ],
+      "2nd_Semester": [
+        "Basics Electronics",
+        "Engineering Chemistry",
+        "Drawing II",
+        "Math II",
+        "Fundamental of Thermodynamics & Heat Transfer",
+        "Workshop Technology"
+      ],
+      "3rd_Semester": [
+        "Electric Systems & Machines",
+        "Elements of Soil & Science",
+        "Engineering Materials",
+        "Engineering Math III ",
+        "Farm Power & Engine System",
+        "Fluid Mechanics",
+        "Refrigeration & Cold Storage"
+      ],
+      "4th_Semester": [
+        "Surveying and Levelling",
+        "Principles of Crop Science and Management ",
+        "Hydraulics",
+        "Strength of Materials& Theory of Structures",
+        "Numerical Methods ",
+        "Farm Machinery and Equipment"
+      ],
+      "5th_Semester": [
+        "Communication English ",
+        "Engineering Properties of Bio-Materials",
+        "Hydrology and Agricultural Metrology",
+        "Soil Mechanics and Foundation Engineering",
+        "Survey Camp/ Field Work",
+        "Theory of Design of Machine Elements",
+        "Tractor Systems and Control",
+        "Probability and Statistics"
+      ],
+      "6th_Semester": [
+        "Post Harvest Engineering ",
+        "Farm Structure And Building technology",
+        "Field Operation & Maintenance of Tractor and Farm Machines",
+        "Engineering Economics",
+        "Soil and Water Conservatin Engineering",
+        "Design of Structures",
+        "Irrigation and Drainage Engineering"
+      ],
+      "7th_Semester": [
+        "Ground Water Development and Tubewell Technolgy",
+        "Dairy & Food Engineering ",
+        "Renewable Energy and Energy  conversion Devices",
+        "Agricultural Engineering Project(Part-I)",
+        "Elective",
+        "Estimating and Costing",
+        "Project Engineering"
+      ],
+      "8th_Semester": [
+        "Rural Engineering  and Infrastructure",
+        "Field/ Industrial Training ",
+        "Agricultural Extension Education & Rural Development",
+        "Climate Change & Adaption Measures",
+        "Agricultural Engineering Project (part -II)",
+        "Engineering Professional Practice",
+        "Elective II",
+        "Elective III"
+      ]
+    },
+    "Architecture_Engineering": {
+      "1st_Semester": [
+        "Applied Mechanics",
+        "Basic Design I",
+        "Drafting I",
+        "Free Hand Sketching I",
+        "Introduction to Architecture",
+        "Math I"
+      ],
+      "2nd_Semester": [
+        "Arts and Graphic",
+        "Basic Desing II",
+        "Basic Skills Workshop",
+        "Building Material I",
+        "Math II",
+        "Building Material I",
+        "Math II",
+        "Building Construction I",
+        "Drafting II",
+        "Free Hand Sketching II"
+      ],
+      "3rd_Semester": [
+        "Building Construction II",
+        "Building Materials II",
+        "Building Science I",
+        "Design Studio III",
+        "Design Theory I ",
+        "History of Architecture I",
+        "Structure I"
+    
+      ],
+      "4th_Semester":[
+      "Building Construction III",
+      "Design Studio IV ",
+      "Design Theory II",
+      "HIstory of Architecture II",
+      "Structure II",
+      "Surveying "
+      ],
+      "5th_Semester":[
+          "Building Construction IV ",
+          "Building Services I",
+          "Computer Aided Design and Drawing ",
+          "Contemporary  Architecture",
+          "Design Studio V ",
+          "Working Drawing"
+
+      ],
+      "6th_Semester":[
+        "Building  Economics",
+        "Building Science II",
+        "Building Services II",
+        "Design Studio VI",
+        "Estimating  and Costing ",
+        "Sociology ",
+        "Specification",
+        "Structure III ",
+        "Urban and Settlement Plaanning"
+      ],
+      "7_thSemester":[
+    "Practicum"
+      ],
+      "8th_Semester":[
+         "Architectural Conservation",
+         "Building Services III",
+         "Communication",
+         "Construction Management",
+         "Design Studio VII",
+         "Structure  IV",
+         "Elective -I"
+      ],
+      "9_thSemester":[
+        "Design Studio VIII",
+        "Landscape Design and Site Planning ",
+        "Professional Practice",
+        "Seminar Directed Studies",
+        "Thesis Proposal  and Research",
+        "Elective -II"
+      ],
+      "10_thSemester":[
+        "Thesis Design"
+      ]
+    },
+    "Automobile Engineering":{
+        "1st_Semester":[
+          "Applied Mechanics",
+          "Basic Electrical Engineering",
+          "C Programming",
+          "Drawing I",
+          "Engineering  Physics",
+          "Math I"
+        ],
+        "2nd_Semester":[
+          "Basics Electronics",
+          "Engineering Chemistry",
+          "Drawing II",
+          "Math II",
+          "Fundamental of Thermodynamics & Heat Transfer",
+          "Workshop Technology"
+        ],
+        "3rd_Semester":[
+            "Applied Thermodynamics & Heat Transfer",
+            "Computer Aided Design & Manufacturing",
+            "Engineering Math III ",
+            "Engineering Mechanics",
+            "Material Science",
+            "Metrology"
+        ],
+        "4th_Semester":[
+            "Automobile Engine",
+            "Electrical Machines",
+            "Instrumentation and Measurement",
+            "Manufacturing & Production Processes",
+            "Mechanics of Materials", 
+            "Probability & Statistics"
+        ],
+        "5th_Semester":[
+            "Automobile Chassis ",
+            "Automobile Component Design I",
+            "Control System",
+            "Numerical Methods",
+            "Organizatioon & Management",
+            "Theory of Mechanism & Machine "
+        ],
+        "6th_Semester":[
+            "Automobile Component Design II",
+            "Communication English",
+            "Engine combustion & Pollution Control",
+            "Fluid Mechanics & Machine ",
+            "Industrial Engineering & Management",
+            "Road Transport Management"
+        ],
+        "7_thSemester":[
+        "Automobile Electrical & Electronics",
+        "Construction Equipment",
+        "Engineering Economics",
+        "Industrial Attachment",
+        "Project I",
+        "Vehicle Dynamics",
+        "Elective I"
+    ],
+    "8th_Semester":[
+        "Automobile Maintenance & Repair ",
+        "Engineering Professional Practice",
+        "Project Engineering",
+        "Project (part B)",
+        "Elective II",
+        "Elective III"
+    ]
+    
+    },
+    "Civil Engineering":
+    {
+        "1st_Semester":[
+            "C Programming",
+            "Drawing I",
+            "Engineering Chemistry",
+            "Fundamental of Thermodynamics and Heat Transfer",
+            "Math I",
+            "Workshop Technology"
+        ],
+        "2nd_Semester":[
+            "Applied Mechanics",
+            "Basic Electrical Engineering",
+            "Basic Electronics Engineering",
+            "Drawing II",
+            "Math II",
+            "Engineering Physics"
+        ],
+        "3rd_Semester":[
+            "Applied Mechanics(Dynamics)",
+            "Civil Engineering Materials",
+            "Engineering Geology I",
+            "Engineering Math III ",
+            "Fluid Mechanics",
+            "Strength Of Materials",
+            "Surveying"
+        ],
+        "4th_Semester":[
+            "Building Drawing",
+            "Engineering Geology II",
+            "Hydraulics",
+            "Probability & Statistics",
+            "Soil Mechanics",
+            "Surveying II ",
+            " Theory of Structures I"
+
+        ],
+        "5th_Semester":[
+            "Concrete Technology and Masonry Structures",
+            "Engineering Hydrology",
+            "Foundation Engineering",
+            "Numerical Methods",
+            "Survey Camp/ Field Work",
+            "Theory of Structures II",
+            "Water Supply Engineering"
+        ],
+        "6th_Semester":[
+        "Building Technolgy",
+        "Communication English",
+        "Design of Steeel and Timber Structures ",
+        "Engineering Economics",
+        "Irrigation and Drainage Engineering",
+        "Sanitary Engineering",
+        "Transportation Engineering"
+        ],
+        "7_thSemester":[
+            "Design of RCC Structures",
+            "Elective I",
+            "Estimating and Costing",
+            "Hydropower  Engineering",
+            "Project Engineering ",
+            "Project I",
+            "Trnsportation Engineering"
+        ],
+        "8th_Semester":[
+            "Computational Techniques in Civil  Engineering ",
+            "Construction Management",
+            "Elective -I",
+            "Elective II",
+            "Engineering Professional Practice",
+            "Project II ",
+            "Technology, Environment and Society"
+        ]
+
+    },
+    "Computer Engineering":{
+        "1st_Semester":[
+            "Applied Mechanics",
+            "Basic Electrical Engineering",
+            "C Programming",
+            "Drawing I",
+            "Engineering  Physics",
+            "Math I"
+
+        ],
+        "2nd_Semester":[
+            "Basics Electronics",
+            "Engineering Chemistry",
+            "Drawing II",
+            "Math II",
+            "Fundamental of Thermodynamics & Heat Transfer",
+            "Workshop Technology"
+        ],
+        "3rd_Semester":[
+            "Digital Logic ",
+            "Electric Circuit Theory",
+            "electromagnetics",
+            "Electronic devices & Cicuits",
+            "Engineering Math III ",
+            "Object Oriented Programming",
+            "Theory of Computation"
+        ],
+        "4th_Semester":[
+            "Applied Mathematics",
+            "Data Structure & Algorithm",
+            " Discrete Structure & Algorithm",
+            "Electric Machine",
+            "Instumentation I ",
+            "Microprocessor ",
+            "Numerical Methods "
+
+        ],
+        "5_thSemester":
+        [
+            "Communication English",
+            "Computer Graphics",
+            "Computer Organizatioon & Architecture",
+            "Data Communication",
+            "Instumentation II",
+            "Probability & Statistics",
+            "Software Engineering"
+        ],
+        "6th_Semester":[
+            "Artificial Intelligence",
+            "Database Management System",
+            "Embedded System",
+            "Engineering Economics",
+            "Minor Project",
+            "Object Oriented Analysis & Design",
+            "Operating System"
+        ],
+        "7_thSemester":[
+            "Computer Network",
+            "Digital Signal Analysis & Processsing",
+            "Distributed System",
+            "Energy , Environment and Society",
+            "ICT Project Management",
+            "Organization & Management",
+            "Project( Part A)",
+            "Elective I"
+        ],
+        "8th_Semester":[
+            "Engineering Professional Practice",
+            "Information System",
+            "Internet and Intranet",
+            "Project (part B)",
+            "Simulation and Modeling",
+            "Elective II",
+            "Elective III"
+        ]
+
+    
+    },
+    "Electrical Enginerring":{
+        "1st_Semester":[
+            "Applied Mechanics",
+            "Basic Electrical Engineering",
+            "C Programming",
+            "Drawing I",
+            "Engineering  Physics",
+            "Math I"
+        ],
+        "2nd_Semester":[
+            "Basics Electronics",
+            "Engineering chemistry",
+            "Drawing II",
+            "Math II",
+            "Fundamental of Thermodynamics & Heat Transfer",
+            "Workshop Technology"
+        ],
+        "3rd_Semester":[
+            "Digital Logic ",
+            "Electric Circuit Theory",
+            "Electrical Engineering Material",
+            "electromagnetics",
+            "Electronic devices & Cicuits",
+            "Engineering Math III ",
+            "Object Oriented Programming"
+        ],
+        "4th_Semester":[
+            "Applied Mathematics",
+            "Electric Machine I",
+            "Instumentation I ",
+            "Microprocessor ",
+            "Numerical Methods ",
+            "Power System Analysis"
+        ],
+        "5_thSemester":[
+            "Communication English",
+            "control System",
+            "Electrical Machine II",
+            "Instrumentation II",
+            "Power System Analysis II",
+            "Probability & Statistics"
+        ],
+        "6th_Semester":[
+            "Digital Control System",
+            "Engineering Economics",
+            "Hydropower ",
+            "Industrial Power Distribution & Illumination",
+            "Signal Analysis",
+            "Switchgear & Protection"
+        ],
+        "7_thSemester":[
+            "Organization & Management",
+            "Power Electronics",
+            "Power Plant Equipment",
+            "Project Engineering ",
+            "Project I",
+            "Technology , Environment & Society",
+            "Utilization of Electrical Energy ",
+            "Elective I"
+
+        ],
+        "8th_Semester":[
+            "Engineering Professional Practice",
+            "High Voltage Engineering",
+            "Power Plant Design",
+            "Project II",
+            "Transmission & Distribution System Design"
+        ]
+
+
+    },
+    "Electronics & Communication Engineering":
+    {
+        "1st_Semester":[
+            
+            "Basic Electrical Engineering",
+            "Digital  Logic",
+            " C programmming",
+            "Drawing I",
+            "Engineering  Physics",
+            "Math I"
+
+        ],
+        "2nd_Semester":[
+          "Electric Circuits & Machine",
+          "Engineering Chemistry",
+          "Engineering Math II",
+          "Microprocessor",
+          "Object  Oriented  Programming",
+           " Workshop Technology"
+
+        ],
+        "3rd_Semester":[
+          "Control System",
+          "electromagnetics",
+          "Electronic devices & Cicuits",
+          "Math III",
+          "Instrumentation ",
+          "Probability & Statistics"
+        ],
+        "4th_Semester":[
+          "Advanced Electronics",
+          "Applied Mathematics",
+          "Computer Graphics",
+          "Data Structure & Algorithm",
+          "Discrete  Structure",
+          "Numerical Methods "
+        ],
+        "5_thSemester":[
+          "Computer Network",
+          "Computer  organization and Architecture", 
+          "Database  Management System",
+          "Engineering Economics",
+          "Filter Design",
+          "Operating System"
+        ],
+        "6th_Semester":[
+          "Communication English",
+          "Communication  System",
+          "Embedded System",
+          "Minor Project",
+          "Object Oriented Software Engineering",
+          "Project Management ",
+          "Propagation & Antenna"
+        ],
+        "7_thSemester":[
+          "Artificial Intelligence",
+          "Digital Signal Analysis & Processsing",
+          "Organization & Management",
+          "Project(Part A)",
+          "RF & Microwave Engineering",
+          "Wireless Communication",
+          "Elective I"
+        ],
+        "8th_Semester":[
+          "Telecommunication",
+          "Engineering Professional Practice",
+          "Energy Environment & Society",
+          "Information System",
+          "Elective -I",
+        "Elective II",
+        "Project (part B)"
+        ]
+        
+    },
+    "Geomatics Engineering":{
+    "1st_Semester":[
+      " C programmming",
+      "Drawing I",
+      "Engineering  Physics",
+      "Fundamental of Thermodynamics and Heat Transfer",
+      "Math I",
+      "Workshop Technology"
+    ],
+    "2nd_Semester":[
+      "Applied Mechanics",
+      "Basic Electrical Engineering",
+      "Basic Electronics  Engineering",
+      "Drawing II",
+      "Math II",
+      "Engineering   Physics"
+    ], 
+    "3rd_Semester":[
+      "Applied Mechanics(Dynamics)",
+      "Applied Physics",
+      "Engineering  Math ",
+      "Fundamental of Civil Engineering",
+      "Fundamental of Surveying I ",
+      "Object Oriented Programming",
+      "Probability & Statistics"
+    ],
+    "4th_Semester":[
+      "Applied Mathematics",
+      "Computing Techniques for Geomatics",
+      "Field Survey I",
+      "Fundamental of Surveying II",
+      "Fundamental of Geographics Information Systems",
+      "Numerical Methods "
+    ],
+    "5_thSemester":[
+      "Adjustment of Observations",
+      "Cadastre",
+      "Fundamental of Geodesy",
+      "Principles of Photogrammetry",
+      "Signals  & Transform",
+      "Survey Networks"
+
+    ],
+    "6th_Semester":[
+      "Cartography & Geoinformation",
+      "Communication English",
+      "Engineering Economics",
+      "Field Survey II",
+      "Geodetic Positioning & Gravity Field",
+      "Remote Sensing"
+    ],
+    "7_thSemester":[
+      "Design & Implementation of Geospatial",
+      "Land Administration & Management",
+      "Project Engineering ",
+      "Project I",
+      "Satellite Positioning",
+      "Elective I"
+    ],
+    "8th_Semester":[
+      "Digital Terrain Modelling ",
+      "Engineering Professional Practice",
+      "Elective -I",
+      "Elective II",
+      "Project II ",
+      "Technology, Environment and Society"
+    ]
+
+
+
+
+    },
+    "Industrial Engineering":{
+       "1st_Semester":[
+        "Applied Mechanics",
+        "Basic Electrical Engineering",
+        "C Programming",
+        "Drawing I ",
+        "Engineering  Physics",
+        "Math I"
+       ],
+       "2nd_Semester":[
+        "Basic  Electronics",
+        "Engineering Chemistry",
+        "Drawing II",
+        "Math II",
+        "Fundamental of Thermodynamics & Heat Transfer",
+        "Workshop Technology"
+       ],
+       "3rd_Semester":[
+        "Computer Aided Drawing",
+        "Econiomics",
+        "Engineering Math III ", 
+        "Fluid Mechanic and Machines",
+        "Group Work and Presentation I",
+        "Manufacturing Technology",
+        "Material Science  and Metallurgy",
+        "Material Science and Metallurgy",
+        "Work , Study and Ergonomics "
+       ],
+       "4th_Semester":[
+        "Electrical Machines",
+        "Engineering  Economics",
+        "Group Work and Presentation II",
+        "Heat and Mass Transfer",
+        "Industrial  Management",
+        "Probability & Statistics",
+        "Production Process and Technology",
+        "Strength of Materials"
+       ],
+       "5th_Semester":[
+        "Elective -I",
+        "Control System",
+        "Energy Power Technology",
+        "Group Work Presentation III",
+        "Meterology and  Measurement",
+        "Numerical Methods",
+        "Project Management",
+        "Supply Chain Management"
+       ],
+       "6th_Semester":[
+        "Elective -II",
+        "Communication English",
+        "Concurrent Engineering and Value Engineering",
+        "Design of Machine Elements",
+        "Entreprenership Development",
+        "Maintenance Engineering",
+        "Theory of Machine"
+       ],
+       "7th_Semester":[
+        "Elective -III",
+        "Elective -IV",
+        "Engineering Ethics and Industrial Law",
+        "Operation Research",
+        "Plant  Layout Design & OHS",
+        "Project",
+        "Refrigeration HVAC"
+       ],
+       "8th_Semester":[
+        "Industrial Attachment",
+        "Seminar"
+       ]
+
+
+
+
+    },
+    "Mechanical Engineering":{
+       "1st_Semester":[
+        " C programmming",
+        "Engineering Chemistry",
+        "Engineering Drawing I ",
+        "Engineering Math I ",
+        "Fundamental of Thermodynamics and Heat Transfer",
+        "Workshop Technology"
+       ],
+       "2nd_Semester":[
+        "Applied Mechanics",
+        "Basic Electrical Engineering",
+        "Basic Electronics Engineering",
+        "Engineering  Drawing II",
+        "Engineering Drawing II",
+        "Engineering Math II",
+        "Engineering   Physics"
+       ],
+       "3rd_Semester":[
+        "Applied Thermodynamics",
+        "Computer Aided Drawing",
+        "Engineering Math III ",
+        "Engineering Mechanics",
+        "Material Science",
+        "Meterology"
+       ],
+       "4th_Semester":[
+        "Electric Machine",
+        "Fluid Mechanics",
+        "Instrumentation and Measurement",
+        "Manufacturing & Production Processes",
+        "Probability & Statistics",
+        "Strength of Materials"
+       ],
+       "5th_Semester":[
+        "Control System",
+        "Fluid Machines",
+        "Heat Transfer",
+        "Mechanics of Solids",
+        "Numerical Methods",
+        "Organizatioon & Management"
+       ],
+       "6th_Semester":[
+        "Communication English",
+        "Energy Resources",
+        "Industrial Engineering & Management",
+        "Internal Combustion Engines ",
+        "Machine Design I",
+        "Theory of Mechanism and Machine I"
+       ],
+       "7th_Semester":[
+        "Elective I ",
+        "Engineering Economics",
+        "Environment and Pollution Control",
+        "Industrial Attachment",
+        "Machine Design II",
+        "Project I",
+        "Theory of Mechanism and Machine II",
+        "Turbo Machine"
+       ],
+       "8th_Semester":[
+        "Elective -II",
+        "Elective III",
+        "Engineering Professional Practice",
+        "Finite Element Method",
+        "Project II ",
+        "Project Engineering"
+       ]
+    }
+
+    
+
+
+    }
+  
+
+
+
+    
+     
+    
+
+
+
+   
